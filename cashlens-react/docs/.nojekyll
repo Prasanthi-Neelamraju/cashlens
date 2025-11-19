@@ -1,0 +1,5 @@
+# Ensure you are inside the main project directory (cashlens-react)
+cd cashlens-react 
+
+# Create the empty file inside the folder that contains index.html
+touch docs/.nojekyll
